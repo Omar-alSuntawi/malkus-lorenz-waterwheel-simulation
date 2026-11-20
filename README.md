@@ -1,6 +1,6 @@
 # Numerical Solution for Lorenz Equations & Malkus–Lorenz Waterwheel
 
-Course project report (**Math202**) from **Zewail City of Science and Technology** exploring numerical ODE integration of the **Lorenz system** and its physical derivation via the **Malkus–Lorenz waterwheel**.
+A project report exploring numerical ODE integration of the **Lorenz system** and its physical derivation via the **Malkus–Lorenz waterwheel**.
 
 ## Overview
 
