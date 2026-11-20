@@ -2,6 +2,10 @@
 
 A project report exploring numerical ODE integration of the **Lorenz system** and its physical derivation via the **Malkus–Lorenz waterwheel**.
 
+## Lorenz Attractor Visualization
+
+![Lorenz Attractor in Phase Space](lorenz_attractor.png)
+
 ## Overview
 
 The **Lorenz system** is a three-dimensional, nonlinear, deterministic set of ordinary differential equations exhibiting sensitive dependence on initial conditions (chaos):
@@ -13,10 +17,6 @@ $$\frac{dy}{dt} = x(\rho - z) - y$$
 $$\frac{dz}{dt} = xy - \beta z$$
 
 For classic chaotic parameters $\sigma = 10$, $\rho = 28$, and $\beta = \frac{8}{3}$, trajectories trace out the Lorenz attractor in phase space. The report also derives the governing equations of motion for a **Malkus–Lorenz waterwheel** (via mass continuity, rotational torque balance, and Fourier amplitude modes) and shows how a change of variables maps the waterwheel dynamics onto the Lorenz equations.
-
-## Lorenz Attractor Visualization
-
-![Lorenz Attractor in Phase Space](lorenz_attractor.png)
 
 ## Key Results & Findings
 
